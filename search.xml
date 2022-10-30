@@ -42,9 +42,9 @@
       
       <categories>
           
-          <category> 学习 </category>
-          
           <category> 实战 </category>
+          
+          <category> 学习 </category>
           
           <category> 面试 </category>
           
@@ -79,9 +79,9 @@
           
           <category> Web前端 </category>
           
-          <category> HTML </category>
-          
           <category> CSS </category>
+          
+          <category> HTML </category>
           
       </categories>
       
